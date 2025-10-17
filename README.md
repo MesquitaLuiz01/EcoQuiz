@@ -5,6 +5,9 @@ EcoQuiz é um projeto de faculdade desenvolvido para a disciplina de Introduçã
 
 🎯 Objetivos
     ✅ Aplicar conceitos fundamentais de programação
+    
     ✅ Desenvolver interface gráfica amigável
+    
     ✅ Promover conscientização ambiental
+    
     ✅ Praticar lógica de programação e estruturas de dados
